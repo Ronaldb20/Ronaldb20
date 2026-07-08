@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**Ronaldb20/Ronaldb20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is Ronald Bohorquez I am a aspiring Software Engineer based in Southern California
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy coding applications that help solve problems that I or others have.
+
+I use Typescript and react to build my front end and springboot and Java for my backend. I'm also into embedded software and 
+code also using C++, Python, and use LinuxOS for some projects.
+
+I hope you find at least one project interesting or exciting.
+
+To contact me email me at:
+
